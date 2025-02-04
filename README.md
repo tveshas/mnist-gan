@@ -1,7 +1,7 @@
 # MNIST GAN
 
 A PyTorch implementation of a Generative Adversarial Network (GAN) trained on the MNIST dataset.
-Have a look [here|(https://colab.research.google.com/drive/1SHeU8KJmSJlIdsOKo5ax-zqChqS2iby6?usp=sharing)]
+Have a fun with it [here](https://colab.research.google.com/drive/1SHeU8KJmSJlIdsOKo5ax-zqChqS2iby6?usp=sharing)
 
 ## Overview
 This project implements a GAN to generate handwritten digits similar to those in the MNIST dataset. The architecture includes:
